@@ -1,5 +1,6 @@
 .nb-parts input { display: block; }
 .pizza-type .description { font-size: 13px;  color: #B5B5B5; margin-left: 20px; }
+
 .pizza-pict { width: 112px; height: 112px; margin-top: 10px; margin-right:10px; display: inline-block; }
 .pizza-0 { background-image: url('../images/pizza-0.png'); } 
 .pizza-1 { background-image: url('../images/pizza-1.png'); } 
@@ -13,3 +14,6 @@ button.add { display: block; }
 .infos-client input { margin-bottom: 10px; }
 .stick-right { position: fixed; right: 0px; top: 150px; width: 300px;}
 .container { margin-bottom: 100px;}
+
+label { display: block; }
+label input[type='radio'], label input[type='checkbox'] { margin-right: 15px; }
