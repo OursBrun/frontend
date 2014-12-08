@@ -1,5 +1,5 @@
 .nb-parts input { display: block; }
-.pizza-type .description { font-size: 13px; margin-left: 20px; color: #B5B5B5; position: absolute; top: 2px; }
+.pizza-type .description { font-size: 13px;  color: #B5B5B5; margin-left: 20px; }
 .pizza-pict { width: 112px; height: 112px; margin-top: 10px; margin-right:10px; display: inline-block; }
 .pizza-0 { background-image: url('../images/pizza-0.png'); } 
 .pizza-1 { background-image: url('../images/pizza-1.png'); } 
