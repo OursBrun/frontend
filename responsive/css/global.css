@@ -19,7 +19,7 @@ a {
 }
 
 .wrapper { 
-    width: 90%;
+    width: 1250px;
     padding: 25px;
     margin: 0 auto;
 }
@@ -50,11 +50,11 @@ header .user a {
 
 body .wrapper > aside {
     float: left;
-    width: 15.625%;
+    width:  190px;
 }
 body .wrapper > main {
     float: left;
-    width: 78.125%;
+    width: 1060px;
 }
 
 main header aside {
@@ -117,6 +117,10 @@ nav ul li:last-child {
 
 .name-photo aside { 
     margin-right: 20px;
+}
+
+.name-photo aside img { 
+    width: 50px;
 }
 
 h1 {
@@ -245,7 +249,5 @@ nav a.top { background: url("../img/icon/top.png") no-repeat 0px; }
 nav a.new { background: url("../img/icon/new.png") no-repeat 0px; }
 nav a.collection { background: url("../img/icon/collection.png") no-repeat 0px; }
 nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
-
-
 
 
