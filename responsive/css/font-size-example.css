@@ -1,17 +1,16 @@
-
 html {
     font-size: 16px;
 }
 body {
     color: #352a25;
     font-family: Georgia, serif;
-    font-size: 40.5%; /* 1em = 10px */
+    font-size: 62.5%; /* 1em = 10px */
     margin: 40px 80px;
 }
 
 
 h1 {
-    font-size: 3em;
+    font-size: 3em; /* 30px */
 }
 
 h1 a {
