@@ -4,8 +4,6 @@ Heure limite : **12h20**
 
 Les TPs rendus au-delà ne seront pas acceptés
 
-Conseil : réaliser les spécifications dans l'ordre (#1, #2, etc.)
-
 ### HTML5 
 _5 points_
 ***
@@ -19,7 +17,7 @@ _5 points_
 _5 points_
 ***
 * Faire un dégradé du blanc vers le gris `#efefef` sur l'en-tête, avec une ombre externe
-* Faire un arrondi et une ombre interne sur le champ de recherche
+* Faire un arrondis et une ombre interne sur le champ de recherche
 * Mettre en place un bouton arrondi `Lire la suite`, avec une ombre au survol
 * Utiliser la propriété `box-sizing` lorsque c'est nécessaire
 * Utiliser la notation `hsl` pour les couleurs
@@ -53,7 +51,7 @@ _5 points_
 
 ### Code snippets
 ***
-* Liste des stations de métro : voir le fichier `stations.html`
+* Liste des stations de métro : voir fichier `stations.html`
 * jQuery : utiliser `each` pour parcourir chaque élément du DOM
 
 ***

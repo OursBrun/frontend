@@ -1,0 +1,69 @@
+/******************/
+/* Mobile Layout */
+/******************/
+
+
+/* Mobile */
+@media screen and (max-width: 550px){
+
+    body {
+        font-size: 53%;
+    }
+    .wrapper {
+        padding: 20px 10px;
+    }
+
+    article figure {
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+
+    article figure img {
+        max-height: 50px;
+    }
+
+    article h1 {
+        display: none;
+    }
+
+    article .main {
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    article button {
+        margin: 20px auto 0px auto;
+        width: 50%;
+        font-size: 1.1em;
+    }
+
+    article:nth-child(odd) {
+        background-color: #ededed;
+    }
+
+    .logo-search img {
+        float: none;
+    }
+
+    .logo-search {
+        text-align: center;
+    }
+
+    form {
+        float: none;
+    }
+
+    form input {
+        margin-left: 0;
+    }
+
+    article ul li {
+        list-style: none;
+    }
+
+    section#metro-list {
+        margin-top: 0px;
+    }
+}

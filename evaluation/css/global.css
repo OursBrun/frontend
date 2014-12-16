@@ -1,0 +1,133 @@
+/******************/
+/* General Layout */
+/******************/
+
+@font-face {
+    font-family: 'My Lucida';
+    src: url('../font/LucidaGrande.ttf');
+    font-style: normal; 
+}
+
+* { 
+    font-family: 'My Lucida', Console;
+}
+
+body { 
+    font-size: 62.5%; /* 1em = 10px */
+}
+
+img {
+    max-width: 100%;
+}
+
+.wrapper { 
+    width: 95%;
+    padding: 25px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+body > header { 
+    background: linear-gradient(to top, #efefef, white) no-repeat;
+    box-shadow: 1px 1px 20px #d5d5d5;
+    padding-bottom: 20px;
+}
+
+body > header img {
+    max-width: 100px;
+    float: left;
+}
+
+form { 
+    float: left;
+    margin-top: 25px;
+}
+
+form input { 
+    height: 42px;
+    width: 330px;   
+    font-size: 1.5em;
+    padding: 8px 10px 5px 16px;
+    margin: 0 0 0 40px;
+    border: 1px solid hsl(209, 36%, 86%);
+    border-radius: 40px;
+    box-shadow: inset 1px 1px 3px #d5d5d5;
+}
+
+
+main .wrapper > header { 
+    border-bottom: 1px solid  hsl(209, 36%, 86%);
+    font-size: 1.5em;
+    padding-bottom: 10px;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+article {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+article figure {
+    width: 20%;
+}
+
+article figure {
+    width: 20%;
+    float: left;
+}
+
+section#metro-list {
+    margin-top: 40px;
+}
+
+article .main { 
+    float: left;
+    width: 79%;
+    padding-left: 30px;
+    box-sizing: border-box;
+    font-size: 1.5em;
+}
+
+article h1 {
+    font-size: 1.5em;
+}
+
+article h2 {
+    margin-bottom: 5px;
+}
+
+article button { 
+    background: linear-gradient(to bottom, #3FC644, #209424) no-repeat;
+    border-radius: 20px;
+    border: 0;
+    color: white;
+    display: block;
+    padding: 11px 20px 9px 20px;
+    font-size: 0.8em;
+    margin-top: 8px;
+}
+
+article button:hover {
+    box-shadow: 1px 1px 10px #d5d5d5;
+}
+
+article ul {
+    display: none;
+    padding: 20px;
+    max-width: 400px;
+}
+
+article li.highlight {
+    color: white;
+    background-color: #F28E42;
+    padding: 6px 0 4px 10px;
+    margin: 3px 0 4px 0;
+}
+
+
+
+
