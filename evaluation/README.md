@@ -17,8 +17,8 @@ _5 points_
 _5 points_
 ***
 * Faire un dégradé du blanc vers le gris `#efefef` sur l'en-tête, avec une ombre externe
-* Faire un arrondis et une ombre interne sur le champ de recherche
-* Mettre en place un bouton arrondi `Lire la suite`, avec une ombre au survol
+* Faire un arrondi et une ombre interne sur le champ de recherche
+* Mettre en place un bouton arrondi `Voir la liste`, avec une ombre au survol
 * Utiliser la propriété `box-sizing` lorsque c'est nécessaire
 * Utiliser la notation `hsl` pour les couleurs
 * Utiliser la police `Lucida Grande` pour tous les textes
